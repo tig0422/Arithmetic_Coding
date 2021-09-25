@@ -5,6 +5,8 @@ Used weight file for Arithmetic coding
 
 FP32 weight of AlexNet : https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet
 
+FP32 weight of CaffeNet : https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet
+
 
 # Pruning
 
