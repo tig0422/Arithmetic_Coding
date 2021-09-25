@@ -8,11 +8,11 @@ FP32 weight of AlexNet : https://github.com/BVLC/caffe/tree/master/models/bvlc_a
 
 # Pruning
 
-We pruned weight of AlexNet : https://github.com/kaiqzhan/admm-pruning
+We used pruned weight of AlexNet : https://github.com/kaiqzhan/admm-pruning
 
 Reference : Zhang, Tianyun, et al. "A systematic dnn weight pruning framework using alternating direction method of multipliers." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
 
-We pruned weight of CaffeNet : https://github.com/kaiqzhan/ADAM-ADMM
+We uesd pruned weight of CaffeNet : https://github.com/kaiqzhan/ADAM-ADMM
 
 Reference : Zhang, Tianyun, et al. "Adam-admm: A unified, systematic framework of structured weight pruning for dnns." arXiv preprint arXiv:1807.11091 2.3 (2018).
 
